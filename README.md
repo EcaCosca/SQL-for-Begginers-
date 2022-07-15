@@ -1,6 +1,6 @@
 # Codewars - SQL for Beginners
 
-Exercises completed at https://www.codewars.com/collections/sql-for-beginners (15.03.2021)
+Exercises completed at https://www.codewars.com/collections/sql-for-beginners (15.07.2022)
 
 ### Adults only (SQL for Beginners #1)
 
